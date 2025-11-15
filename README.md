@@ -2,8 +2,6 @@
 
 A self-construted platform with interface to help quanters test their forecasting models, do backtests and involve in market!
 
-Basic structure is based on the following git.
-
 ## Quick Start
 
 ### Prerequisites
